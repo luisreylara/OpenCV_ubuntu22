@@ -13,4 +13,8 @@ virtualenv vs. venv (beginner - intermediate) anthony explains #040
 anthonywritescode
 https://www.youtube.com/watch?v=MGTX5qI2Jts
 
+
+Cómo crear entornos virtuales con virtualenv | terminal de Ubuntu
+kipuna ec
+https://www.youtube.com/watch?v=QyTXWZ0lJtI
 ```
