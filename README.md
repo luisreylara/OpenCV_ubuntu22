@@ -9,4 +9,8 @@ https://www.youtube.com/watch?v=oVbbLhYdBVA
 
 sudo apt-get install neofetch
 
+virtualenv vs. venv (beginner - intermediate) anthony explains #040
+anthonywritescode
+https://www.youtube.com/watch?v=MGTX5qI2Jts
+
 ```
